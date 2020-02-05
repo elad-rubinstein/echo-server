@@ -1,7 +1,6 @@
 """
 hey
-"""
-
+""
 
 import time
 
