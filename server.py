@@ -1,15 +1,1 @@
-"""
-hey
-""
-
-import time
-
-
-fdafsafs
-
-
-
-
-
-
-fdasfdsafdsadfafdfdasd
+print("hi")
